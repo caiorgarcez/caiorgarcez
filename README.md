@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 ### Activity:
 
 <a href="https://github.com/caiorgarcez">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorgarcez&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/caiorgarcez">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=caiorgarcez&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 
 <br/>
