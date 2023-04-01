@@ -42,4 +42,38 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/caio-c-r-garcez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+ 
+ 
+ <details>
+<summary> Connect with me🤝: </summary>  
+
+<br/>
+
+<a href="https://t.me/Dave_bhandari">
+  <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+</a>
+
+<a href="https://github.com/Davekibh">
+  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+<a href="https://instagram.com/Dave_bhandari/">
+  <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+
+<a href="https://www.facebook.com/people/Dave-Bhandari/100005906536571">
+  <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+</a>
+
+<a href="https://twitter.com/dave_bhandari">
+  <img align="left" alt="Dave's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+
+<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
+  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+<br/>
+
+</details>
   
